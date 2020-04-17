@@ -1,5 +1,5 @@
 {
-    "name": "staudenmeir/laravel-upsert",
+    "name": "rjeurissen/laravel-upsert",
     "description": "Laravel UPSERT and INSERT IGNORE queries",
     "license": "MIT",
     "authors": [
@@ -9,8 +9,7 @@
         }
     ],
     "require": {
-        "php": "^7.2.5",
-        "illuminate/database": "^7.0"
+        "php": "^7.2.5"
     },
     "require-dev": {
         "laravel/homestead": "^10.0",
